@@ -1,0 +1,23 @@
+{
+  "name": "游戏制作",
+  "name_zh": "游戏制作",
+  "name_en": "Godot Game Creator",
+  "description": "通过 MCP 操作本机正在运行的 Godot 4.7 编辑器：搭场景、写 GDScript、连信号、运行并验证。",
+  "description_zh": "通过 MCP 操作本机正在运行的 Godot 4.7 编辑器：搭场景、写 GDScript、连信号、运行并验证。",
+  "description_en": "Drive a running Godot 4.7 editor over MCP: build scenes, write GDScript, wire signals, run and verify.",
+  "source": "godot-game-creator",
+  "type": "mcp",
+  "version": "1.0.0",
+  "minWorkbuddyVersion": "5.0.0",
+  "examples_zh": [
+    "新建一个 480×720 的 2D 躲避游戏，玩家可以左右移动，碰到障碍重生，走到终点显示胜利",
+    "给玩家角色加上跳跃，并限制二段跳",
+    "把这个场景的 UI 改成深色主题，加一个重新开始按钮"
+  ],
+  "examples_en": [
+    "Create a 480x720 2D dodge game where the player moves left and right, respawns on obstacles, and wins at the goal",
+    "Add jumping to the player and limit it to a double jump",
+    "Restyle this scene's UI with a dark theme and a restart button"
+  ]
+}
+

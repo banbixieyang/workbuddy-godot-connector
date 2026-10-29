@@ -1,0 +1,22 @@
+{
+  "name": "godot-game-creator",
+  "version": "1.2.1",
+  "description": "在 WorkBuddy 里直接操作本机运行的 Godot 4.7 编辑器：搭场景、写 GDScript、连信号、运行并验证。Drive a live Godot 4.7 editor over MCP: scenes, GDScript, signals, run and verify.",
+  "author": {
+    "name": "banbixieyang"
+  },
+  "category": "mcp-app",
+  "keywords": [
+    "workbuddy",
+    "mcp-app",
+    "stdio",
+    "godot",
+    "game"
+  ],
+  "workbuddy": {
+    "runtimeOwner": "agent-cli"
+  }
+}
+
+
+

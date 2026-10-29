@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "godot": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "${CODEBUDDY_PLUGIN_ROOT}/server.mjs"
+      ],
+      "cwd": "${CODEBUDDY_PLUGIN_ROOT}",
+      "env": {},
+      "defer_loading": false,
+      "runtime": {
+        "type": "node",
+        "version": "22"
+      }
+    }
+  }
+}
